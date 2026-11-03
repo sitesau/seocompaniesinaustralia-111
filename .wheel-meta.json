@@ -1,0 +1,22 @@
+{
+  "wheel_id": 698,
+  "structure": "umbrella",
+  "slug": "seocompaniesinaustralia-111",
+  "project": "seo-services-brisbane-myths-aa9113fbb1c626fca4745e2bb866e26a708",
+  "parent_t1_ref": "seocompaniesinaustralia-157",
+  "node_role": "feeder",
+  "money_target": "seocompaniesinaustralia.com.au",
+  "primary_kw": "seo services brisbane myths",
+  "intended_url": "http://seo-services-brisbane-myths-aa9113fbb1c626fca4745e2bb866e26a708.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "a7bf01476661cbb5",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/seocompaniesinaustralia-157/",
+      "anchor": "this seo services brisbane guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
